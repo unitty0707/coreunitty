@@ -7,7 +7,7 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 name: LOFFER
 # 描述/签名
-description: 一个可以fork的博客
+description: 咕咕精之家
 
 #
 # 下面的设定都是可选的
@@ -32,7 +32,7 @@ navigation:
     url: /tags
 
 # 每页的文章数
-paginate: 8
+paginate: 13
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
